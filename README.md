@@ -1,2 +1,8 @@
 # oficina-reconhecimento-facial-nodejs
 BLABLABLABLEBLEBLEBLUBLUBLUOHHHBLUBLUBLUBLUBLu
+
+AntonioMendes67Gordo 
+
+https://hplhvmkalfudhjtwbdvk.supabase.co/rest/v1/
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhwbGh2bWthbGZ1ZGhqdHdiZHZrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwNjI2MjYsImV4cCI6MjA5NTYzODYyNn0.A6fdjulFc0HYQbwAymiEBF8LL81PaSvOTcsADgGI4Ws
